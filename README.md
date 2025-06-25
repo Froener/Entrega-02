@@ -13,7 +13,7 @@ Este repositório contém 9 arquivos JavaScript que fazem parte da **Entrega Obr
 
 1. Abra o terminal e navegue até a pasta onde estão os arquivos.
 
-2. Instale as dependências necessárias (especialmente para `jogoAdivinhacao.js`) rodando:
+2. Instale as dependências necessárias rodando:
 
    ```bash
    npm install
